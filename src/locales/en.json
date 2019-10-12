@@ -1,0 +1,31 @@
+{
+  "login-page": {
+    "title": "Sign In",
+    "email": "Email",
+    "password": "Password",
+    "login": "login",
+    "social-placeholder": "Sign in with",
+    "bottom-text": "You dont't have an account.You can",
+    "link-text": "create one!"
+  },
+  "sign-up": {
+    "title": "Let's create a new account !",
+    "email": "Email",
+    "password": "Password",
+    "bottom-text": "or go back to",
+    "sign-up": "Sign up",
+    "link-text": "login!"
+  },
+  "home-page": {
+    "go-to": "Go to",
+    "link": "dashboard"
+  },
+  "dashboard-page":  {
+    "title": "Welcome to your dashboard!"
+  },
+  "navigation-page": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  }
+}
